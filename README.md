@@ -13,10 +13,10 @@ at task 5 &amp; 6
 
 2-Answer these questions:
 
-What is the number of authors and their commits to the repository?
+-What is the number of authors and their commits to the repository?
 
-Who are Top 10 contributors?
+-Who are Top 10 contributors?
 
-How many commits each year? &amp; plots them
+-How many commits each year? &amp; plots them
 
-Which year had the most commits?
+-Which year had the most commits?
